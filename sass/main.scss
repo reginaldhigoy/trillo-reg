@@ -1,0 +1,4 @@
+@import "variables"; // Import variables.scss first so all variables are available
+@import "base"; // Import base.scss that relies on variables
+@import "components"; // Import components.scss
+@import "layout"; // Import layout.scss
